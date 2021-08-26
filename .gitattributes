@@ -1,3 +1,4 @@
-static/* linguist-vendored
-site_cartao/static/* linguist-vendored
-site_cartao/templates/* linguist-vendored
+$ cat .gitattributes
+*.js linguist-language=Python
+*.css linguist-language=Python
+*.python linguist-detectable=true
